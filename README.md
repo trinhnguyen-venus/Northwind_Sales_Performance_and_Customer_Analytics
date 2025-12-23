@@ -7,11 +7,11 @@ The analysis is performed entirely in SQL, with reporting logic built directly a
 
 ## 2. Business Questions
 
-- How has sales revenue evolved over time?
-- Which customers contribute the most to total revenue?
-- How concentrated is revenue across customers and countries?
-- Which products and categories contribute most to sales?
-- How does shipment status impact realized revenue?
+1. How has sales revenue evolved over time?
+2. Which customers contribute the most to total revenue?
+3. How concentrated is revenue across customers and countries?
+4. Which products and categories contribute most to sales?
+5. How does shipment status impact realized revenue?
 
 ## 3. Key Insights
 
@@ -32,13 +32,13 @@ The analysis is performed entirely in SQL, with reporting logic built directly a
 
 ## Files Included
 
-`00_prepare_northwind_data.sql`
-`01_data_exploration.sql`
-`02_data_cleaning.sql`
-`03_reporting_queries.sql`
-`04_customer_reporting_views.sql`
-`05_product_reporting_views.sql`
-`06_final_sales_summary_views.sql`
+- `00_prepare_northwind_data.sql`
+- `01_data_exploration.sql`
+- `02_data_cleaning.sql`
+- `03_reporting_queries.sql`
+- `04_customer_reporting_views.sql`
+- `05_product_reporting_views.sql`
+- `06_final_sales_summary_views.sql`
 
 ## Author
 **Trinh Nguyen**  
